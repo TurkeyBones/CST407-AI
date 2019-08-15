@@ -1,0 +1,327 @@
+%Aaron Dill
+%CST 407 AI
+%Dr. Pete Myers
+%8/14/2019
+%I used the class guides posted with assignments for course schedules.
+%I burnt out on data entry so stopped around junior/senior classes.
+course(wr121).
+course(cst162).
+course(cst102).
+course(cst116).
+course(cst126).
+course(cst136).
+course(mth111).
+course(cst130).
+course(wr122).
+course(mth112).
+course(cst131).
+course(psy201).
+course(spe111).
+course(cst250).
+course(cst211).
+course(cst276).
+course(mth251).
+course(bus304).
+course(cst238).
+course(cst236).
+course(mth252).
+course(spe321).
+course(cst223).
+course(hst452).
+course(mth254).
+course(cst240).
+course(mth327).
+course(wr227).
+course(cst229).
+course(cst316).
+course(cst324).
+course(phy221).
+course(cst320).
+course(cst326).
+course(phy222).
+course(wr350).
+course(cst336).
+course(cst415).
+course(cst352).
+
+course(cst352, 'Operating Systems').
+course(cst415, 'Comp Network').
+course_name(cst336, 'SW Design II').
+course_name(wr350, 'Doc Dev').
+course_name(phy222, 'Physics II').
+course_name(cst326, 'SW Design I').
+course_name(cst320, 'Compiler Methods').
+course_name(phy221, 'Physics I').
+course_name(cst324, 'DB Sys & Design').
+course_name(cst316, 'Software Process Mgt').
+course_name(cst229, 'Grammars').
+course_name(wr227, 'Technical Writing').
+course_name(mth327, 'Discrete Math').
+course_name(cst240, 'Unix').
+course_name(mth254, 'Vector Calc').
+course_name(hst452, 'Globalization & PNW').
+course_name(cst223, 'Concepts of Prog Lang').
+course_name(spe321, 'Group Comm').
+course_name(mth252, 'Integral Calc').
+course_name(cst236, 'Software Systems Testing').
+course_name(cst238, 'GUI').
+course_name(bus304, 'Engineering Mgt').
+course_name(mth251, 'Differential Calc').
+course_name(cst276, 'Design Patterns').
+course_name(cst211, 'Data Structures').
+course_name(cst250, 'Assembly Language').
+course_name(spe111, 'Speech').
+course_name(psy201, 'Psychology').
+course_name(cst131, 'Computer Arch').
+course_name(mth112, 'Trig').
+course_name(wr122, 'Writing II').
+course_name(cst130, 'Computer Organization').
+course_name(mth111, 'Algebra').
+course_name(wr121, 'Writing I').
+course_name(cst162, 'Intro to Digital Logic').
+course_name(cst102, 'Intro to Comp Sys').
+course_name(cst116, 'C++ Programming I').
+course_name(cst126, 'C++ Programming II').
+course_name(cst136, 'C++ Programming III').
+
+credits(cst352, 4).
+credits(cst415, 4).
+credits(cst336, 4).
+credits(wr350, 3).
+credits(phy222, 4).
+credits(cst326, 4).
+credits(cst320, 4).
+credits(phy221, 4).
+credits(cst324, 4).
+credits(cst316, 4).
+credits(cst229, 3).
+credits(wr227, 3).
+credits(mth327, 4).
+credits(cst240, 3).
+credits(mth254, 4).
+credits(hst452, 3).
+credits(cst223, 3).
+credits(spe321, 3).
+credits(mth252, 4).
+credits(cst236, 4).
+credits(cst238, 4).
+credits(bus304, 3).
+credits(mth251, 4).
+credits(cst276, 4).
+credits(cst211, 4).
+credits(cst250, 4).
+credits(spe111, 3).
+credits(psy201, 3).
+credits(cst131, 3).
+credits(mth112, 4).
+credits(wr122, 3).
+credits(cst130, 3).
+credits(mth111, 4).
+credits(wr121, 3).
+credits(cst162, 4).
+credits(cst102, 3).
+credits(cst116, 4).
+credits(cst126, 4).
+credits(cst136, 4).
+
+term(cst352, spring).
+term(cst352, junior).
+term(cst415, fall).
+term(cst415, senior).
+term(cst336, spring).
+term(cst336, junior).
+term(wr350, winter).
+term(wr350, junior).
+term(phy222, winter).
+term(phy222, junior).
+term(cst326, winter).
+term(cst326, junior).
+term(cst320, winter).
+term(cst320, junior).
+term(phy221, fall).
+term(phy221, junior).
+term(cst324, fall).
+term(cst324, junior).
+term(cst316, fall).
+term(cst316, junior).
+term(cst229, fall).
+term(cst229, junior).
+term(wr227, summer).
+term(wr227, sophomore).
+term(mth327, summer).
+term(mth327, sophomore).
+term(cst240, spring).
+term(cst240, sophomore).
+term(mth254, spring).
+term(mth254, sophomore).
+term(hst452, spring).
+term(hst452, sophomore).
+term(cst223, spring).
+term(cst223, sophomore).
+term(spe321, winter).
+term(spe321, sophomore).
+term(mth252, winter).
+term(mth252, sophomore).
+term(cst236, winter).
+term(cst236, sophomore).
+term(cst238, winter).
+term(cst238, sophomore).
+term(bus304, fall).
+term(bus304, sophomore).
+term(mth251, fall).
+term(mth251, sophomore).
+term(cst276, fall).
+term(cst276, sophomore).
+term(cst211, fall).
+term(cst211, sophomore).
+term(cst250, summer).
+term(cst250, freshman).
+term(spe111, summer).
+term(spe111, freshman).
+term(psy201, spring).
+term(psy201, freshman).      
+term(cst131, spring).
+term(cst131, freshman).
+term(mth112, spring).
+term(mth112, freshman).
+term(wr122, winter).
+term(wr122, freshman).
+term(cst130, winter).
+term(cst130, freshman).
+term(mth111, winter).
+term(mth111, freshman).
+term(wr121, fall).
+term(wr121, freshman).
+term(cst162, fall).
+term(cst162, freshman).
+term(cst102, fall).
+term(cst102, freshman).
+term(cst116, fall).
+term(cst116, freshman).
+term(cst126, freshman).
+term(cst126, winter).
+term(cst136, freshman).
+term(cst136, spring).
+
+prereq(cst211, cst352).
+prereq(cst240, cst352).
+prereq(cst352, cst415).
+prereq(cst326, cst336).
+prereq(wr227, wr350).
+prereq(phy221, phy222).
+prereq(cst316, cst326).
+prereq(cst229, cst320).
+prereq(mth251, phy221).
+prereq(cst211, cst324).
+prereq(cst211, cst316).
+prereq(cst223, cst229).
+prereq(spe111, wr227).
+prereq(wr122, wr227).
+prereq(mth252, mth327).
+prereq(cst126, cst240).
+prereq(mth252, mth254).
+prereq(wr122, hst452).
+prereq(cst126, cst223).
+prereq(spe111, spe321).
+prereq(mth251, mth252).
+prereq(cst136, cst236).
+prereq(cst211, cst238).
+prereq(wr227, bus304).
+prereq(mth112, mth251).
+prereq(cst136, cst276).
+prereq(cst136, cst211).
+prereq(cst126, cst250).
+prereq(cst130, cst250).
+prereq(cst130, cst131).
+prereq(mth111, mth112).
+prereq(wr121, wr122).
+prereq(cst162, cst130).
+prereq(cst116, cst126).
+prereq(cst126, cst136).
+
+program(set).
+required(set, cst352).
+required(set, cst415).
+required(set, cst336).
+required(set, wr350).
+required(set, phy222).
+required(set, cst326).
+required(set, cst320).
+required(set, phy221).
+required(set, cst324).
+required(set, cst316).
+required(set, cst229).
+required(set, wr227).
+required(set, mth327).
+required(set, cst240).
+required(set, mth254).
+required(set, hst452).
+required(set, cst223).
+required(set, spe321).
+required(set, mth252).
+required(set, cst236).
+required(set, cst238).
+required(set, bus304).
+required(set, mth251).
+required(set, cst276).
+required(set, cst211).
+required(set, cst250).
+required(set, spe111).
+required(set, psy201).
+required(set, cst131).
+required(set, mth112).
+required(set, wr122).
+required(set, cst130).
+required(set, mth111).
+required(set, wr121).
+required(set, cst162).
+required(set, cst102).
+required(set, cst116).
+required(set, cst126).
+required(set, cst136).
+
+take_before(X, Y) :- prereq(X, Z), take_before(Z, Y).
+take_before(X, Y) :- prereq(X, Y).
+
+credits_per_term(X) :- 
+    aggregate_all(sum(P), credits(_, P), Total_credits), 
+    Terms is Total_credits/X,
+    Years is Terms/4,
+    write('number of years:'), write(Years).
+
+degree_req_classes(X) :-
+    aggregate_all(count, required(X,P), Count), Q is Count,
+    write('Total required classes: '),
+    write(Q).
+
+degree_req_credits() :-
+    aggregate_all(sum(P), credits(_, P), Total_credits),
+    Credits is Total_credits,
+    write('Total Credits: '),
+    write(Total_credits).
+
+degree_required(X) :-
+    degree_req_classes(X),
+    degree_req_credits().
+    
+classes_per_term(X, Y) :- 
+    forall((term(P, X), term(P, Y)),write(P)).
+    
+%QUERIES
+%1.	What are the pre-requisites for GUI?
+%prereq(X, cst238).
+%
+%2. How many credits is Assembly Language?
+%credits(cst250, X).
+%
+%3. How many required courses are there for an SET degree and how many credits?
+%degree_required(set).
+%
+%4. Which courses do I need to take before I take GUI?
+%take_before(X, cst238).
+%
+%5.	If I take no more than 8 credits per term, how many years before I graduate?
+%credits_per_term(8).
+%
+%6. Which courses should I take Fall term, Freshman year to graduate in 4 years?
+%classes_per_term(fall, freshman).
